@@ -11,7 +11,7 @@ h2
 .header_text
 {
     line-height: 100px;
-    color: #16FDF2;
+    color: #20C20E;
 }
 
 
@@ -20,7 +20,7 @@ h2
     margin-bottom: 10px;
     margin-right: 50px;
     padding: 0 !important;
-    border-radius: solid #16FDF2 2px;
+    border-radius: solid #20C20E 2px;
     
 }
 
@@ -37,11 +37,17 @@ h2
 .box_title
 {
     padding: 0 !important;
-    background-color: #16FDF2 !important;
+    background-color: #20C20E !important;
 }
 
 .box_content
 {
     background-color: black;
     color: aliceblue;
+}
+
+.submit_button
+{
+    background-color: #20C20E !important;
+    border: 0 !important;
 }
