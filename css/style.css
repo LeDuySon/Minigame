@@ -48,6 +48,7 @@ h2
 
 .submit_button
 {
-    background-color: #20C20E !important;
-    border: 0 !important;
+    background-color: black !important;
+    border: solid #20C20E 1px !important;
+    color: #20C20E !important ;
 }
