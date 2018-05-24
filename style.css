@@ -84,3 +84,24 @@ h2
     background-color:black; 
 }
 
+.icon_align
+{
+    float: right;
+}
+
+.fa_fa-search {
+	border-radius: 8px;
+	border:1px solid #20C20E;
+	text-align: center;
+	color: #20C20E;
+	text-align: center;
+    background-color: black;
+}
+
+#search {
+	border-radius: 8px;
+	border:1px solid #20C20E;
+	text-align: center;
+	background-color: black;
+    color: #20C20E;    
+}
